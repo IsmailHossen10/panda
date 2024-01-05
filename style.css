@@ -1,0 +1,45 @@
+.container{
+    margin-bottom: 100px;
+}
+.carousel{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F
+}
+.Buy-now{
+    background-color:#FF136F;
+    padding: 10px 20px;
+    border-radius: 15px;
+    color: white;
+}
+.cat1,.cat2,.cat3{
+    border-radius: 10px;
+    padding: 10px 40px;
+    color: white;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgray ;
+}
+.last{
+   background-color: #fceae8;
+   height: 300px;
+   border-radius: 10PX;
+}
+.footer{
+    text-align: center;
+    color: rgb(77, 77, 160);
+}
